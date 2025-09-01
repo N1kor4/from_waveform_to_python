@@ -8,7 +8,7 @@ It supports **interactive selection** or **JSON configuration** for batch runs, 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://gitlab.epfl.ch/aqua_superconducting/from-waveform-to-python
+git clone https://github.com/N1kor4/from_waveform_to_python.git
 cd waveform-plotter
 pip install numpy matplotlib
 python waveform_plotter.py
