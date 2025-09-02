@@ -9,9 +9,9 @@ It supports **interactive selection** or **JSON configuration** for batch runs, 
 
 ```bash
 git clone https://github.com/N1kor4/from_waveform_to_python.git
-cd waveform-plotter
+cd from_waveform_to_python
 pip install numpy matplotlib
-python waveform_plotter.py
+python main.py
 ```
 
 But I need to fix since Gitlab via https is.... for now, just copy paste the content of the python file and everything should be alright !
