@@ -1,0 +1,57 @@
+{
+  "file": "example.txt",
+  "plot_groups": "1_8 2-3_4",
+  "extension": "pdf",
+  "linewidth": 1.0,
+  "xlabel": "Time",
+  "figures": [
+    {
+      "figure_title": "Figure 1: State and Output",
+      "ncols": 1,
+      "fig_width": 16.0,
+      "fig_height": 4.0,
+      "subplot_titles": [
+        "State Over Time",
+        "Output Pulse"
+      ],
+      "subplot_legends": [
+        true,
+        true
+      ],
+      "xlimits": [
+        null,
+        null
+      ],
+      "legend_mode": "per_subplot",
+      "legend_location": "outside",
+      "subplot_ylabels": [
+        "State (-)",
+        "Voltage (V)"
+      ]
+    },
+    {
+      "figure_title": "Figure 2: Decay, Growth and Rdyn",
+      "ncols": 1,
+      "fig_width": 16.0,
+      "fig_height": 4.0,
+      "subplot_titles": [
+        "Decay and Growth Rates",
+        "Dynamic Resistance"
+      ],
+      "subplot_legends": [
+        true,
+        true
+      ],
+      "xlimits": [
+        null,
+        null
+      ],
+      "legend_mode": "per_subplot",
+      "legend_location": "outside",
+      "subplot_ylabels": [
+        "Ohm/ns",
+        "Ohm"
+      ]
+    }
+  ]
+}

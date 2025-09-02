@@ -636,6 +636,7 @@ def main():
                 "file": file_name,
                 "plot_groups": user_input,
                 "extension": extension,
+                "linewidth": linewidth,
                 "xlabel": xlabel,
                 "figures": figures_list
             }
