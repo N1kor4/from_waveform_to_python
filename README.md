@@ -14,7 +14,6 @@ pip install numpy matplotlib
 python main.py
 ```
 
-But I need to fix since Gitlab via https is.... for now, just copy paste the content of the python file and everything should be alright !
 ---
 
 ## ✨ Features
